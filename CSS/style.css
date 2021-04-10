@@ -1,0 +1,143 @@
+/*
+	Shine by TEMPLATE STOCK
+	templatestock.co @templatestock
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+*/
+
+/* GLOBAL STYLES */
+* {
+	margin: 0px;
+	padding: 0px;
+}
+.hi{
+    float:
+}
+ol {
+    style="padding-left:1em
+}
+body {
+    background: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    color: #333333;
+    line-height: 28px;
+    text-align: center;
+    overflow-x: hidden !important;
+    margin: auto !important;
+}
+
+a, a:hover, a:active, a:focus {
+    border: 0 none;
+    outline: 0 none;
+    text-decoration: none;
+}
+
+/* TYPOGRAPHIE */
+
+h1,
+h2 {
+	font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+
+h1 {
+    font-size: 42px;
+    line-height: 62px;
+}
+
+h2 {
+    font-size: 32px;
+    line-height: 42px;
+}
+th{
+    color: black;
+    border: 1px solid black;
+    text-align: center;
+    background-color: rgb(231, 231, 151);
+    font-size: 150%;
+}
+td{
+    color: white;
+    border: 1px solid black;
+    width: 25% ;
+    text-align: center; 
+    font-size: 150%;
+    background-color: rgb(112, 112, 112);
+}
+table {
+    table-layout: fixed ;
+    width: 100% ;
+  }
+.work{
+    color: white;
+    background-color: rgb(235, 196, 124);
+}
+.web{
+    color: white;
+    background-color: rgb(81, 236, 81);
+}
+.math{
+    color: white;
+    background-color: rgb(116, 201, 230);
+}
+.c{
+    color: white;
+    background-color: rgb(228, 133, 133);
+}
+.machine{
+    color:white;
+    background-color: rgb(102, 64, 102);
+}
+.algorithms{
+    color: white;
+    background-color: rgb(65, 65, 65);
+}
+ul, ol {
+    list-style: none;
+}
+
+/* Navigation bar styling inspired by https://www.w3schools.com/howto/howto_js_topnav.asp */
+
+
+
+/* Add a black background color to the top navigation */
+.topnav {
+    position: sticky;
+    top: 0;
+    background-color: lightgreen;
+    overflow: hidden;
+    border: solid black 1px;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 18px 17px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: red;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: blue;
+    color: white;
+  }
+
+  .bottom{
+      color: white;
+    position: sticky;
+    bottom: 0;
+    background-color: black;
+    overflow: hidden;
+    border: solid rgb(207, 37, 37) 1px;
+  }
+  .
